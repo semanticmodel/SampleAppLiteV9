@@ -15,7 +15,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Prod_Key" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -33,7 +33,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Prod_Dsc" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -50,7 +50,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Type" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -66,7 +66,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Type_Key" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -83,7 +83,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.LOB" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -99,7 +99,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.LOB_Key" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -116,7 +116,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Brand" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       },
@@ -132,7 +132,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Brand_Key" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       }
@@ -147,7 +147,7 @@
           "logicalTableSource" : "LTS1 Products",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:Sample App Lite Data.D10 Product.Sequence" ]
+            "expressionObjects" : [ "" ]
           }
         } ]
       }
@@ -156,7 +156,7 @@
       "name" : "LTS1 Products",
       "disable" : false,
       "tableMapping" : {
-        "tables" : [ "physicalTable:Sample App Lite Data.D10 Product" ]
+        "tables" : [ "" ]
       },
       "dataGranularity" : [ "logicalLevel:SampleApp Lite.D1 Products.Products Detail" ],
       "combineWithOtherFragments" : false,
