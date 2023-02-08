@@ -1,7 +1,7 @@
 {
   "database" : {
     "name" : "Sample App Lite Data",
-    "description" : "lorem",
+    "description" : "lorem ipsum",
     "databaseType" : "ORACLE_DATABASE",
     "connectionPools" : [ {
       "name" : "SampleApp_Lite_Xml",
